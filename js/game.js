@@ -1,6 +1,6 @@
-// heyhatsup inc
-// all rights reserved
-// copying and distribution of the source code with the permission of the creator
+
+
+
 
 
 
